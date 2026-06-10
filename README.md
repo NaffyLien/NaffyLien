@@ -1,5 +1,3 @@
-<img src='./assets/f57ee7677c1afa517b82daefc9e01f9d.jpg' alt='image found on pinterest'/>
-
 # Salama aby 👋 
 ## ANDRIANAIVO Nafafisoaseheno Zorvelien no anarako
 
@@ -41,7 +39,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,kotlin,mongodb,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,kotlin,mongodb,docker,git,linux,vercel" />
 </p>
 
 ---
@@ -70,16 +68,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=NafNafra&show_icons=true&theme=tokyonight" height="165"/>   
+  </p> 
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafNafra&layout=compact&theme=tokyonight" height="165"/>
+ </p>
 </p>
 
 ---
