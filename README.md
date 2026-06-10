@@ -117,12 +117,15 @@
 
 ## 🤝 Connect With Me
 
-<p align="start">
+<p align="center">
   <a href="https://github.com/NafNafra">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/nafafy-andrianaivo-609258328/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://web.facebook.com/naffy.zolleveiren">
+    <img src="https://img.shields.io/badge/Facebook-181717?style=for-the-badge&logo=facebook" />
   </a>
 </p>
 
