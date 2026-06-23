@@ -1,6 +1,4 @@
-# Salama aby 👋 
-## ANDRIANAIVO Nafafisoaseheno Zorvelien no anarako
-
+# Salama aby 👋 Je m'appelle Nafafy Zorvelien
 
 <div>
  <!-- Who am i? -->
@@ -24,13 +22,6 @@
   </div>
 </div>
 
-## 🧠 What I’m Working On
-
-- Modular & scalable web architectures
-- Secure authentication (JWT, refresh tokens)
-- Dockerized environments
-- Cybersecurity labs (Snort, Suricata, ELK)
-- Clean UI & developer-friendly DX
 
 - **https://ro-minili-wheat.vercel.app/** 
 
@@ -38,82 +29,17 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,kotlin,mongodb,docker,git,linux,vercel" />
+<p align="center" width="150">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,kotlin,mongodb,docker,ansible,git,linux,vercel,ubuntu,github,mysql,idea,vscode" />
 </p>
-
----
-
-## ⚙️ Tech Stack
-
-**Frontend**
-- React.js / Next.js
-- TypeScript
-- UI Animations & UX patterns
-
-**Backend**
-- Node.js
-- NestJS
-- MongoDB
-- JWT Authentication
-
-**DevOps & Security**
-- Docker / Docker Compose
-- Snort (IDS)
-- Suricata (Inline mode)
-- ELK Stack
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=NafNafra&show_icons=true&theme=tokyonight" height="165"/>   
-  </p> 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafNafra&layout=compact&theme=tokyonight" height="165"/>
- </p>
+ <img src="https://github-readme-stats.vercel.app/api?username=NaffyLien&show_icons=true&theme=tokyonight" height="165"/>   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaffyLien&layout=donut&theme=tokyonight" height="165"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaffyLien&theme=tokyonight&repo=BookinApp" height="165"/>
 </p>
-
----
-
-## 📌 Featured Projects
-
-🚀 **Training Center Web App**
-- React frontend with static fallback data
-- NestJS backend & MongoDB
-- Registration & availability logic
-
-🛡️ **Cybersecurity Docker Lab**
-- DMZ / Danger network segmentation
-- Suricata inline blocking
-- Snort IDS monitoring
-
-🎨 **UI Experiments**
-- Modern animations
-- Interactive components
-- Responsive layouts
-
----
-
-## 💬 Ask Me About
-
-- React & frontend architecture
-- NestJS backend patterns
-- JWT authentication
-- Docker & networking basics
-- UI/UX best practices
-
----
-
-## ✨ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
