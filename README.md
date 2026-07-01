@@ -36,8 +36,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=NaffyLien&show_icons=true&theme=tokyonight" height="165"/>   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaffyLien&layout=donut&theme=tokyonight" height="165"/>
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NaffyLien&theme=tokyonight&repo=BookinApp" height="165"/>
 </p>
 
