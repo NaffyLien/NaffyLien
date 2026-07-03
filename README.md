@@ -30,7 +30,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center" width="150">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,kotlin,mongodb,docker,ansible,git,linux,vercel,ubuntu,github,mysql,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,kotlin,mongodb,docker,ansible,git,linux,vercel,ubuntu,github,mysql,idea,vscode,pycharm" />
 </p>
 
 ## 📊 GitHub Stats
