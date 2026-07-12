@@ -12,10 +12,10 @@
   <div align="justify">
    <p>
     - 💻 Developpeuse Full-stack en web developpement et in training <br/>
-    - ⚛️ Frontend focused on ``React / Next.js``<br/>
-    - 🧠 Backend with ``NestJS & MongoDB``<br/>
+    - ⚛️ Frontend focused on React / Next.js <br/>
+    - 🧠 Backend with NestJS & MongoDB <br/>
     - 🛠️ Investing into DevOps learning and automatisation <br/>
-    - 🛡️ Interested in ``cybersecurity``, ``IDS/IPS & Docker labs``<br/>
+    - 🛡️ Interested in Networking, Cybersecurity, IDS/IPS & Docker labs <br/>
     - 🚀 Always learning, always building<br/>
    </p>
   </div>
