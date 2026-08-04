@@ -23,7 +23,8 @@
 </div>
 
 
-- **https://ro-minili-wheat.vercel.app/** 
+- **https://ro-minili-wheat.vercel.app/**
+- **https://naffylien.github.io/locomo-salt/**
 
 ---
 
